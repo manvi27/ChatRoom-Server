@@ -2,8 +2,7 @@
 
 ## Overview
 
-A distributed chat server system supporting multiple chat rooms with different message ordering guarantees. The system consists of servers and clients, where each client connects to one server, and servers communicate with each other using UDP-based multicast. The [repo](https://github.com/CIS5550/24sp-CIS5050-manvi27/tree/main/HW3) containing code is private, reach out to me at manviaga27@gmail.com to gain access for the repo.
-
+A distributed chat server system supporting multiple chat rooms with different message ordering guarantees. The system consists of servers and clients, where each client connects to one server, and servers communicate with each other using UDP-based multicast. 
 ### Features
 
 Server Capabilities:
