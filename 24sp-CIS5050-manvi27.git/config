@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = true
-	symlinks = false
-	ignorecase = true
-[remote "origin"]
-	url = https://github.com/CIS5550/24sp-CIS5050-manvi27.git

@@ -1,0 +1,3 @@
+g++ chatserver.cc -c -o chatserver.o
+g++ Helper.cc -c -o Helper.o
+g++ chatserver.o Helper.o -o chatserver

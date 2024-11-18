@@ -1,0 +1,28 @@
+Forwarding address: *127.0.0.1:8000*
+Line 1: 127.0.0.1:8001,127.0.0.1:8001
+Binding address: *127.0.0.1:8001*
+Forwarding address: *127.0.0.1:8002*
+Binding address127.0.0.1:8001
+Server is listening on 127.0.0.1:8001
+received from port = 48745 and server addr = 127.0.0.1
+Rcvaddr = 127.0.0.1:48745
+Checking for server or client addr127.0.0.1<>127.0.0.1
+Checking for server or client port8000<>48745
+Checking for server or client addr127.0.0.1<>127.0.0.1
+Checking for server or client port8002<>48745
+Message received from client
+New client connected with ip*127.0.0.1:48745*
+Checking for command
+JOIN *1* chat room
+received from port = 48745 and server addr = 127.0.0.1
+Rcvaddr = 127.0.0.1:48745
+Checking for server or client addr127.0.0.1<>127.0.0.1
+Checking for server or client port8000<>48745
+Checking for server or client addr127.0.0.1<>127.0.0.1
+Checking for server or client port8002<>48745
+Message received from client
+Not a command
+Message received from local client
+Multicasting message to server *127.0.0.1:8000*
+Multicasting message to server *127.0.0.1:8002*
+Delivering message to local clients

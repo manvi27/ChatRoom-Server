@@ -1,0 +1,510 @@
+Ordering = total
+Total
+<127.0.0.1:50050>/join 2
+Checking for command/join 2
+JOIN *2* chat room
+<Server Resp>+OK Joined chat room *2*
+<127.0.0.1:50050>M1-S5-G2-062710
+Not a command
+Multicasting message2/2/0/*/1/M1-S5-G2-062710 to server *127.0.0.1:8000*
+Multicasting message2/2/0/*/1/M1-S5-G2-062710 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/0/?/1/M1-S5-G2-062710
+<127.0.0.1:8001>2/1/0/?/1/M1-S5-G2-062710
+Multicasting message2/1/0/!/1/M1-S5-G2-062710 to server *127.0.0.1:8000*
+Multicasting message2/1/0/!/1/M1-S5-G2-062710 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M1-S5-G2-062710sent to127.0.0.1
+<127.0.0.1:50050>M2-S5-G2-007341
+Not a command
+Multicasting message2/2/1/*/1/M2-S5-G2-007341 to server *127.0.0.1:8000*
+Multicasting message2/2/1/*/1/M2-S5-G2-007341 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/1/?/2/M2-S5-G2-007341
+<127.0.0.1:8001>2/1/1/?/2/M2-S5-G2-007341
+Multicasting message2/1/1/!/2/M2-S5-G2-007341 to server *127.0.0.1:8000*
+Multicasting message2/1/1/!/2/M2-S5-G2-007341 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M2-S5-G2-007341sent to127.0.0.1
+<127.0.0.1:8001>1/1/0/*/1/M3-S3-G1-073264
+<127.0.0.1:8001>1/2/0/!/1/M3-S3-G1-073264
+Accepted Message order  = 1
+<127.0.0.1:8000>2/0/2/*/1/M4-S4-G2-004658
+<127.0.0.1:8000>2/2/2/!/3/M4-S4-G2-004658
+Accepted Message order  = 3
+Message <127.0.0.1:50050>M4-S4-G2-004658sent to127.0.0.1
+<127.0.0.1:8001>2/1/3/*/1/M5-S2-G2-010237
+<127.0.0.1:8001>2/2/3/!/4/M5-S2-G2-010237
+Accepted Message order  = 4
+Message <127.0.0.1:50050>M5-S2-G2-010237sent to127.0.0.1
+<127.0.0.1:8001>2/1/4/*/1/M6-S2-G2-076833
+<127.0.0.1:8001>2/2/4/!/5/M6-S2-G2-076833
+Accepted Message order  = 5
+Message <127.0.0.1:50050>M6-S2-G2-076833sent to127.0.0.1
+<127.0.0.1:8001>2/1/5/*/1/M7-S2-G2-011532
+<127.0.0.1:8001>2/2/5/!/6/M7-S2-G2-011532
+Accepted Message order  = 6
+Message <127.0.0.1:50050>M7-S2-G2-011532sent to127.0.0.1
+<127.0.0.1:8001>2/1/6/*/1/M8-S1-G2-099851
+<127.0.0.1:8001>2/2/6/!/7/M8-S1-G2-099851
+Accepted Message order  = 7
+Message <127.0.0.1:50050>M8-S1-G2-099851sent to127.0.0.1
+<127.0.0.1:50050>M9-S5-G2-039644
+Not a command
+Multicasting message2/2/7/*/1/M9-S5-G2-039644 to server *127.0.0.1:8000*
+Multicasting message2/2/7/*/1/M9-S5-G2-039644 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/7/?/8/M9-S5-G2-039644
+<127.0.0.1:8001>2/1/7/?/8/M9-S5-G2-039644
+Multicasting message2/1/7/!/8/M9-S5-G2-039644 to server *127.0.0.1:8000*
+Multicasting message2/1/7/!/8/M9-S5-G2-039644 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M9-S5-G2-039644sent to127.0.0.1
+<127.0.0.1:8001>2/1/8/*/1/M10-S2-G2-078160
+<127.0.0.1:8001>2/2/8/!/9/M10-S2-G2-078160
+Accepted Message order  = 9
+Message <127.0.0.1:50050>M10-S2-G2-078160sent to127.0.0.1
+<127.0.0.1:50050>M11-S5-G2-019319
+Not a command
+Multicasting message2/2/9/*/1/M11-S5-G2-019319 to server *127.0.0.1:8000*
+Multicasting message2/2/9/*/1/M11-S5-G2-019319 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/9/?/10/M11-S5-G2-019319
+<127.0.0.1:8001>2/1/9/?/10/M11-S5-G2-019319
+Multicasting message2/1/9/!/10/M11-S5-G2-019319 to server *127.0.0.1:8000*
+Multicasting message2/1/9/!/10/M11-S5-G2-019319 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M11-S5-G2-019319sent to127.0.0.1
+<127.0.0.1:8001>2/1/10/*/1/M12-S2-G2-036819
+<127.0.0.1:8001>2/2/10/!/11/M12-S2-G2-036819
+Accepted Message order  = 11
+Message <127.0.0.1:50050>M12-S2-G2-036819sent to127.0.0.1
+<127.0.0.1:8001>2/1/11/*/1/M13-S2-G2-093744
+<127.0.0.1:8001>2/2/11/!/12/M13-S2-G2-093744
+Accepted Message order  = 12
+Message <127.0.0.1:50050>M13-S2-G2-093744sent to127.0.0.1
+<127.0.0.1:8000>2/0/12/*/1/M14-S4-G2-004062
+<127.0.0.1:8000>2/1/12/!/13/M14-S4-G2-004062
+Accepted Message order  = 13
+Message <127.0.0.1:50050>M14-S4-G2-004062sent to127.0.0.1
+<127.0.0.1:8000>2/0/13/*/1/M15-S4-G2-052177
+<127.0.0.1:8000>2/1/13/!/14/M15-S4-G2-052177
+Accepted Message order  = 14
+Message <127.0.0.1:50050>M15-S4-G2-052177sent to127.0.0.1
+<127.0.0.1:8001>1/1/1/*/1/M16-S3-G1-078942
+<127.0.0.1:8001>1/2/1/!/2/M16-S3-G1-078942
+Accepted Message order  = 2
+<127.0.0.1:50050>M17-S5-G2-043066
+Not a command
+Multicasting message2/2/14/*/1/M17-S5-G2-043066 to server *127.0.0.1:8000*
+Multicasting message2/2/14/*/1/M17-S5-G2-043066 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/14/?/15/M17-S5-G2-043066
+<127.0.0.1:8001>2/1/14/?/15/M17-S5-G2-043066
+Multicasting message2/1/14/!/15/M17-S5-G2-043066 to server *127.0.0.1:8000*
+Multicasting message2/1/14/!/15/M17-S5-G2-043066 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M17-S5-G2-043066sent to127.0.0.1
+<127.0.0.1:8001>2/1/15/*/1/M18-S1-G2-078376
+<127.0.0.1:8001>2/2/15/!/16/M18-S1-G2-078376
+Accepted Message order  = 16
+Message <127.0.0.1:50050>M18-S1-G2-078376sent to127.0.0.1
+<127.0.0.1:8001>2/1/16/*/1/M19-S1-G2-072631
+<127.0.0.1:8001>2/2/16/!/17/M19-S1-G2-072631
+Accepted Message order  = 17
+Message <127.0.0.1:50050>M19-S1-G2-072631sent to127.0.0.1
+<127.0.0.1:8001>2/1/17/*/1/M20-S1-G2-023928
+<127.0.0.1:8001>2/2/17/!/18/M20-S1-G2-023928
+Accepted Message order  = 18
+Message <127.0.0.1:50050>M20-S1-G2-023928sent to127.0.0.1
+<127.0.0.1:8000>2/0/18/*/1/M21-S4-G2-072538
+<127.0.0.1:8000>2/2/18/!/19/M21-S4-G2-072538
+Accepted Message order  = 19
+Message <127.0.0.1:50050>M21-S4-G2-072538sent to127.0.0.1
+<127.0.0.1:8001>1/1/2/*/1/M22-S3-G1-020509
+<127.0.0.1:8001>1/2/2/!/3/M22-S3-G1-020509
+Accepted Message order  = 3
+<127.0.0.1:8001>1/1/3/*/1/M23-S3-G1-035449
+<127.0.0.1:8001>1/2/3/!/4/M23-S3-G1-035449
+Accepted Message order  = 4
+<127.0.0.1:8001>2/1/19/*/1/M24-S2-G2-077697
+<127.0.0.1:8001>2/2/19/!/20/M24-S2-G2-077697
+Accepted Message order  = 20
+Message <127.0.0.1:50050>M24-S2-G2-077697sent to127.0.0.1
+<127.0.0.1:8001>2/1/20/*/1/M25-S2-G2-064799
+<127.0.0.1:8001>2/2/20/!/21/M25-S2-G2-064799
+Accepted Message order  = 21
+Message <127.0.0.1:50050>M25-S2-G2-064799sent to127.0.0.1
+<127.0.0.1:50050>M26-S5-G2-082072
+Not a command
+Multicasting message2/2/21/*/1/M26-S5-G2-082072 to server *127.0.0.1:8000*
+Multicasting message2/2/21/*/1/M26-S5-G2-082072 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/21/?/22/M26-S5-G2-082072
+<127.0.0.1:8001>2/1/21/?/22/M26-S5-G2-082072
+Multicasting message2/1/21/!/22/M26-S5-G2-082072 to server *127.0.0.1:8000*
+Multicasting message2/1/21/!/22/M26-S5-G2-082072 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M26-S5-G2-082072sent to127.0.0.1
+<127.0.0.1:8001>2/1/22/*/1/M27-S1-G2-091160
+<127.0.0.1:8001>2/2/22/!/23/M27-S1-G2-091160
+Accepted Message order  = 23
+Message <127.0.0.1:50050>M27-S1-G2-091160sent to127.0.0.1
+<127.0.0.1:8001>2/1/23/*/1/M28-S2-G2-060426
+<127.0.0.1:8001>2/2/23/!/24/M28-S2-G2-060426
+Accepted Message order  = 24
+Message <127.0.0.1:50050>M28-S2-G2-060426sent to127.0.0.1
+<127.0.0.1:8001>2/1/24/*/1/M29-S2-G2-057856
+<127.0.0.1:8001>2/2/24/!/25/M29-S2-G2-057856
+Accepted Message order  = 25
+Message <127.0.0.1:50050>M29-S2-G2-057856sent to127.0.0.1
+<127.0.0.1:8001>2/1/25/*/1/M30-S2-G2-006940
+<127.0.0.1:8001>2/2/25/!/26/M30-S2-G2-006940
+Accepted Message order  = 26
+Message <127.0.0.1:50050>M30-S2-G2-006940sent to127.0.0.1
+<127.0.0.1:8001>2/1/26/*/1/M31-S1-G2-070643
+<127.0.0.1:8001>2/2/26/!/27/M31-S1-G2-070643
+Accepted Message order  = 27
+Message <127.0.0.1:50050>M31-S1-G2-070643sent to127.0.0.1
+<127.0.0.1:50050>M32-S5-G2-057624
+Not a command
+Multicasting message2/2/27/*/1/M32-S5-G2-057624 to server *127.0.0.1:8000*
+Multicasting message2/2/27/*/1/M32-S5-G2-057624 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/27/?/28/M32-S5-G2-057624
+<127.0.0.1:8001>2/1/27/?/28/M32-S5-G2-057624
+Multicasting message2/1/27/!/28/M32-S5-G2-057624 to server *127.0.0.1:8000*
+Multicasting message2/1/27/!/28/M32-S5-G2-057624 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M32-S5-G2-057624sent to127.0.0.1
+<127.0.0.1:8001>2/1/28/*/1/M33-S2-G2-004870
+<127.0.0.1:8001>2/2/28/!/29/M33-S2-G2-004870
+Accepted Message order  = 29
+Message <127.0.0.1:50050>M33-S2-G2-004870sent to127.0.0.1
+<127.0.0.1:8000>2/0/29/*/1/M34-S4-G2-046391
+<127.0.0.1:8000>2/1/29/!/30/M34-S4-G2-046391
+Accepted Message order  = 30
+Message <127.0.0.1:50050>M34-S4-G2-046391sent to127.0.0.1
+<127.0.0.1:8001>2/1/30/*/1/M35-S2-G2-051740
+<127.0.0.1:8001>2/2/30/!/31/M35-S2-G2-051740
+Accepted Message order  = 31
+Message <127.0.0.1:50050>M35-S2-G2-051740sent to127.0.0.1
+<127.0.0.1:8001>1/1/4/*/1/M36-S3-G1-076721
+<127.0.0.1:8001>1/2/4/!/5/M36-S3-G1-076721
+Accepted Message order  = 5
+<127.0.0.1:8001>2/1/31/*/1/M37-S1-G2-003786
+<127.0.0.1:8001>2/2/31/!/32/M37-S1-G2-003786
+Accepted Message order  = 32
+Message <127.0.0.1:50050>M37-S1-G2-003786sent to127.0.0.1
+<127.0.0.1:8001>1/1/5/*/1/M38-S3-G1-041053
+<127.0.0.1:8001>1/2/5/!/6/M38-S3-G1-041053
+Accepted Message order  = 6
+<127.0.0.1:8001>2/1/32/*/1/M39-S1-G2-050295
+<127.0.0.1:8001>2/2/32/!/33/M39-S1-G2-050295
+Accepted Message order  = 33
+Message <127.0.0.1:50050>M39-S1-G2-050295sent to127.0.0.1
+<127.0.0.1:8001>1/1/6/*/1/M40-S3-G1-047033
+<127.0.0.1:8001>1/2/6/!/7/M40-S3-G1-047033
+Accepted Message order  = 7
+<127.0.0.1:8001>2/1/33/*/1/M41-S1-G2-007311
+<127.0.0.1:8001>2/2/33/!/34/M41-S1-G2-007311
+Accepted Message order  = 34
+Message <127.0.0.1:50050>M41-S1-G2-007311sent to127.0.0.1
+<127.0.0.1:8001>2/1/34/*/1/M42-S1-G2-031917
+<127.0.0.1:8001>2/2/34/!/35/M42-S1-G2-031917
+Accepted Message order  = 35
+Message <127.0.0.1:50050>M42-S1-G2-031917sent to127.0.0.1
+<127.0.0.1:8000>2/0/35/*/1/M43-S4-G2-064348
+<127.0.0.1:8000>2/1/35/!/36/M43-S4-G2-064348
+Accepted Message order  = 36
+Message <127.0.0.1:50050>M43-S4-G2-064348sent to127.0.0.1
+<127.0.0.1:50050>M44-S5-G2-032431
+Not a command
+Multicasting message2/2/36/*/1/M44-S5-G2-032431 to server *127.0.0.1:8000*
+Multicasting message2/2/36/*/1/M44-S5-G2-032431 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/36/?/37/M44-S5-G2-032431
+<127.0.0.1:8001>2/1/36/?/37/M44-S5-G2-032431
+Multicasting message2/1/36/!/37/M44-S5-G2-032431 to server *127.0.0.1:8000*
+Multicasting message2/1/36/!/37/M44-S5-G2-032431 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M44-S5-G2-032431sent to127.0.0.1
+<127.0.0.1:8001>2/1/37/*/1/M45-S1-G2-089537
+<127.0.0.1:8001>2/2/37/!/38/M45-S1-G2-089537
+Accepted Message order  = 38
+Message <127.0.0.1:50050>M45-S1-G2-089537sent to127.0.0.1
+<127.0.0.1:8000>2/0/38/*/1/M46-S4-G2-064942
+<127.0.0.1:8000>2/2/38/!/39/M46-S4-G2-064942
+Accepted Message order  = 39
+Message <127.0.0.1:50050>M46-S4-G2-064942sent to127.0.0.1
+<127.0.0.1:8001>1/1/7/*/1/M47-S3-G1-057958
+<127.0.0.1:8001>1/2/7/!/8/M47-S3-G1-057958
+Accepted Message order  = 8
+<127.0.0.1:50050>M48-S5-G2-006593
+Not a command
+Multicasting message2/2/39/*/1/M48-S5-G2-006593 to server *127.0.0.1:8000*
+Multicasting message2/2/39/*/1/M48-S5-G2-006593 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/39/?/40/M48-S5-G2-006593
+<127.0.0.1:8001>2/1/39/?/40/M48-S5-G2-006593
+Multicasting message2/1/39/!/40/M48-S5-G2-006593 to server *127.0.0.1:8000*
+Multicasting message2/1/39/!/40/M48-S5-G2-006593 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M48-S5-G2-006593sent to127.0.0.1
+<127.0.0.1:8001>2/1/40/*/1/M49-S1-G2-091272
+<127.0.0.1:8001>2/2/40/!/41/M49-S1-G2-091272
+Accepted Message order  = 41
+Message <127.0.0.1:50050>M49-S1-G2-091272sent to127.0.0.1
+<127.0.0.1:8001>2/1/41/*/1/M50-S2-G2-073033
+<127.0.0.1:8001>2/2/41/!/42/M50-S2-G2-073033
+Accepted Message order  = 42
+Message <127.0.0.1:50050>M50-S2-G2-073033sent to127.0.0.1
+<127.0.0.1:8001>1/1/8/*/1/M51-S3-G1-056008
+<127.0.0.1:8001>1/2/8/!/9/M51-S3-G1-056008
+Accepted Message order  = 9
+<127.0.0.1:50050>M52-S5-G2-083642
+Not a command
+Multicasting message2/2/42/*/1/M52-S5-G2-083642 to server *127.0.0.1:8000*
+Multicasting message2/2/42/*/1/M52-S5-G2-083642 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/42/?/43/M52-S5-G2-083642
+<127.0.0.1:8001>2/1/42/?/43/M52-S5-G2-083642
+Multicasting message2/1/42/!/43/M52-S5-G2-083642 to server *127.0.0.1:8000*
+Multicasting message2/1/42/!/43/M52-S5-G2-083642 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M52-S5-G2-083642sent to127.0.0.1
+<127.0.0.1:50050>M53-S5-G2-063336
+Not a command
+Multicasting message2/2/43/*/1/M53-S5-G2-063336 to server *127.0.0.1:8000*
+Multicasting message2/2/43/*/1/M53-S5-G2-063336 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/43/?/44/M53-S5-G2-063336
+<127.0.0.1:8001>2/1/43/?/44/M53-S5-G2-063336
+Multicasting message2/1/43/!/44/M53-S5-G2-063336 to server *127.0.0.1:8000*
+Multicasting message2/1/43/!/44/M53-S5-G2-063336 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M53-S5-G2-063336sent to127.0.0.1
+<127.0.0.1:8001>1/1/9/*/1/M54-S3-G1-015382
+<127.0.0.1:8001>1/2/9/!/10/M54-S3-G1-015382
+Accepted Message order  = 10
+<127.0.0.1:8001>1/1/10/*/1/M55-S3-G1-092501
+<127.0.0.1:8001>1/2/10/!/11/M55-S3-G1-092501
+Accepted Message order  = 11
+<127.0.0.1:8001>2/1/44/*/1/M56-S1-G2-045079
+<127.0.0.1:8001>2/2/44/!/45/M56-S1-G2-045079
+Accepted Message order  = 45
+Message <127.0.0.1:50050>M56-S1-G2-045079sent to127.0.0.1
+<127.0.0.1:50050>M57-S5-G2-007873
+Not a command
+Multicasting message2/2/45/*/1/M57-S5-G2-007873 to server *127.0.0.1:8000*
+Multicasting message2/2/45/*/1/M57-S5-G2-007873 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/45/?/46/M57-S5-G2-007873
+<127.0.0.1:8001>2/1/45/?/46/M57-S5-G2-007873
+Multicasting message2/1/45/!/46/M57-S5-G2-007873 to server *127.0.0.1:8000*
+Multicasting message2/1/45/!/46/M57-S5-G2-007873 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M57-S5-G2-007873sent to127.0.0.1
+<127.0.0.1:8000>2/0/46/*/1/M58-S4-G2-030987
+<127.0.0.1:8000>2/2/46/!/47/M58-S4-G2-030987
+Accepted Message order  = 47
+Message <127.0.0.1:50050>M58-S4-G2-030987sent to127.0.0.1
+<127.0.0.1:8001>2/1/47/*/1/M59-S2-G2-002044
+<127.0.0.1:8001>2/2/47/!/48/M59-S2-G2-002044
+Accepted Message order  = 48
+Message <127.0.0.1:50050>M59-S2-G2-002044sent to127.0.0.1
+<127.0.0.1:50050>M60-S5-G2-010778
+Not a command
+Multicasting message2/2/48/*/1/M60-S5-G2-010778 to server *127.0.0.1:8000*
+Multicasting message2/2/48/*/1/M60-S5-G2-010778 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/48/?/49/M60-S5-G2-010778
+<127.0.0.1:8001>2/1/48/?/49/M60-S5-G2-010778
+Multicasting message2/1/48/!/49/M60-S5-G2-010778 to server *127.0.0.1:8000*
+Multicasting message2/1/48/!/49/M60-S5-G2-010778 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M60-S5-G2-010778sent to127.0.0.1
+<127.0.0.1:8001>2/1/49/*/1/M61-S2-G2-019142
+<127.0.0.1:8001>2/2/49/!/50/M61-S2-G2-019142
+Accepted Message order  = 50
+Message <127.0.0.1:50050>M61-S2-G2-019142sent to127.0.0.1
+<127.0.0.1:8001>2/1/50/*/1/M62-S2-G2-068113
+<127.0.0.1:8001>2/2/50/!/51/M62-S2-G2-068113
+Accepted Message order  = 51
+Message <127.0.0.1:50050>M62-S2-G2-068113sent to127.0.0.1
+<127.0.0.1:8001>1/1/11/*/1/M63-S3-G1-030992
+<127.0.0.1:8001>1/2/11/!/12/M63-S3-G1-030992
+Accepted Message order  = 12
+<127.0.0.1:8001>2/1/51/*/1/M64-S2-G2-072632
+<127.0.0.1:8001>2/2/51/!/52/M64-S2-G2-072632
+Accepted Message order  = 52
+Message <127.0.0.1:50050>M64-S2-G2-072632sent to127.0.0.1
+<127.0.0.1:50050>M65-S5-G2-060395
+Not a command
+Multicasting message2/2/52/*/1/M65-S5-G2-060395 to server *127.0.0.1:8000*
+Multicasting message2/2/52/*/1/M65-S5-G2-060395 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8000>2/0/52/?/53/M65-S5-G2-060395
+<127.0.0.1:8001>2/1/52/?/53/M65-S5-G2-060395
+Multicasting message2/1/52/!/53/M65-S5-G2-060395 to server *127.0.0.1:8000*
+Multicasting message2/1/52/!/53/M65-S5-G2-060395 to server *127.0.0.1:8001*
+Delivering message to local clients
+Message <127.0.0.1:50050>M65-S5-G2-060395sent to127.0.0.1
+<127.0.0.1:8001>2/1/53/*/1/M66-S1-G2-081628
+<127.0.0.1:8001>2/2/53/!/54/M66-S1-G2-081628
+Accepted Message order  = 54
+Message <127.0.0.1:50050>M66-S1-G2-081628sent to127.0.0.1
+<127.0.0.1:8001>1/1/12/*/1/M68-S3-G1-076198
+<127.0.0.1:8001>2/1/54/*/1/M70-S1-G2-005092
+<127.0.0.1:8001>2/1/55/*/1/M73-S1-G2-059871
+<127.0.0.1:8001>2/1/56/*/1/M74-S1-G2-066794
+<127.0.0.1:8001>2/1/57/*/1/M75-S2-G2-058446
+<127.0.0.1:8001>1/1/13/*/1/M76-S3-G1-053497
+<127.0.0.1:8001>2/1/58/*/1/M77-S2-G2-069645
+<127.0.0.1:8001>1/1/14/*/1/M79-S3-G1-029021
+<127.0.0.1:8001>2/1/59/*/1/M81-S2-G2-022043
+<127.0.0.1:8001>2/1/60/*/1/M82-S2-G2-005820
+<127.0.0.1:8001>2/1/61/*/1/M83-S1-G2-018856
+<127.0.0.1:8001>2/1/62/*/1/M84-S1-G2-025275
+<127.0.0.1:8001>1/1/15/*/1/M86-S3-G1-089401
+<127.0.0.1:50050>M87-S5-G2-013242
+Not a command
+Multicasting message2/2/63/*/1/M87-S5-G2-013242 to server *127.0.0.1:8000*
+Multicasting message2/2/63/*/1/M87-S5-G2-013242 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/63/?/55/M87-S5-G2-013242
+<127.0.0.1:50050>M88-S5-G2-071222
+Not a command
+Multicasting message2/2/64/*/1/M88-S5-G2-071222 to server *127.0.0.1:8000*
+Multicasting message2/2/64/*/1/M88-S5-G2-071222 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/64/?/56/M88-S5-G2-071222
+<127.0.0.1:8001>2/1/65/*/1/M90-S2-G2-051381
+<127.0.0.1:8001>2/1/66/*/1/M91-S1-G2-015588
+<127.0.0.1:8001>2/1/67/*/1/M92-S2-G2-000856
+<127.0.0.1:8001>2/1/68/*/1/M93-S2-G2-059194
+<127.0.0.1:8001>2/1/69/*/1/M94-S1-G2-002223
+<127.0.0.1:8001>1/1/16/*/1/M95-S3-G1-064628
+<127.0.0.1:50050>M96-S5-G2-093984
+Not a command
+Multicasting message2/2/70/*/1/M96-S5-G2-093984 to server *127.0.0.1:8000*
+Multicasting message2/2/70/*/1/M96-S5-G2-093984 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/70/?/57/M96-S5-G2-093984
+<127.0.0.1:8001>2/1/71/*/1/M98-S2-G2-036838
+<127.0.0.1:8001>2/1/72/*/1/M100-S1-G2-071796
+<127.0.0.1:8001>2/1/73/*/1/M101-S1-G2-025184
+<127.0.0.1:8001>2/1/74/*/1/M102-S1-G2-030181
+<127.0.0.1:8001>2/1/75/*/1/M103-S2-G2-014639
+<127.0.0.1:8001>2/1/76/*/1/M107-S1-G2-000504
+<127.0.0.1:8001>2/1/77/*/1/M108-S1-G2-089298
+<127.0.0.1:8001>2/1/78/*/1/M109-S1-G2-075482
+<127.0.0.1:8001>2/1/79/*/1/M110-S2-G2-080618
+<127.0.0.1:8001>1/1/17/*/1/M111-S3-G1-049350
+<127.0.0.1:50050>M112-S5-G2-059486
+Not a command
+Multicasting message2/2/80/*/1/M112-S5-G2-059486 to server *127.0.0.1:8000*
+Multicasting message2/2/80/*/1/M112-S5-G2-059486 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/80/?/58/M112-S5-G2-059486
+<127.0.0.1:8001>2/1/81/*/1/M114-S2-G2-074683
+<127.0.0.1:8001>2/1/82/*/1/M115-S1-G2-007494
+<127.0.0.1:8001>2/1/83/*/1/M116-S1-G2-007872
+<127.0.0.1:8001>2/1/84/*/1/M119-S2-G2-055809
+<127.0.0.1:8001>1/1/18/*/1/M120-S3-G1-034482
+<127.0.0.1:8001>2/1/85/*/1/M121-S1-G2-094622
+<127.0.0.1:8001>2/1/86/*/1/M122-S2-G2-099292
+<127.0.0.1:8001>1/1/19/*/1/M123-S3-G1-091738
+<127.0.0.1:8001>2/1/87/*/1/M124-S1-G2-087529
+<127.0.0.1:8001>2/1/88/*/1/M125-S2-G2-096464
+<127.0.0.1:50050>M126-S5-G2-040035
+Not a command
+Multicasting message2/2/89/*/1/M126-S5-G2-040035 to server *127.0.0.1:8000*
+Multicasting message2/2/89/*/1/M126-S5-G2-040035 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/89/?/59/M126-S5-G2-040035
+<127.0.0.1:8001>2/1/90/*/1/M127-S2-G2-075453
+<127.0.0.1:8001>2/1/91/*/1/M128-S2-G2-022931
+<127.0.0.1:8001>1/1/20/*/1/M129-S3-G1-028550
+<127.0.0.1:8001>2/1/92/*/1/M130-S1-G2-069607
+<127.0.0.1:50050>M131-S5-G2-060447
+Not a command
+Multicasting message2/2/93/*/1/M131-S5-G2-060447 to server *127.0.0.1:8000*
+Multicasting message2/2/93/*/1/M131-S5-G2-060447 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/93/?/60/M131-S5-G2-060447
+<127.0.0.1:50050>M132-S5-G2-085074
+Not a command
+Multicasting message2/2/94/*/1/M132-S5-G2-085074 to server *127.0.0.1:8000*
+Multicasting message2/2/94/*/1/M132-S5-G2-085074 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/94/?/61/M132-S5-G2-085074
+<127.0.0.1:50050>M133-S5-G2-031885
+Not a command
+Multicasting message2/2/95/*/1/M133-S5-G2-031885 to server *127.0.0.1:8000*
+Multicasting message2/2/95/*/1/M133-S5-G2-031885 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/95/?/62/M133-S5-G2-031885
+<127.0.0.1:50050>M134-S5-G2-072202
+Not a command
+Multicasting message2/2/96/*/1/M134-S5-G2-072202 to server *127.0.0.1:8000*
+Multicasting message2/2/96/*/1/M134-S5-G2-072202 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/96/?/63/M134-S5-G2-072202
+<127.0.0.1:50050>M135-S5-G2-071528
+Not a command
+Multicasting message2/2/97/*/1/M135-S5-G2-071528 to server *127.0.0.1:8000*
+Multicasting message2/2/97/*/1/M135-S5-G2-071528 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/97/?/64/M135-S5-G2-071528
+<127.0.0.1:50050>M136-S5-G2-099274
+Not a command
+Multicasting message2/2/98/*/1/M136-S5-G2-099274 to server *127.0.0.1:8000*
+Multicasting message2/2/98/*/1/M136-S5-G2-099274 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/98/?/65/M136-S5-G2-099274
+<127.0.0.1:8001>2/1/99/*/1/M137-S2-G2-011190
+<127.0.0.1:50050>M138-S5-G2-077630
+Not a command
+Multicasting message2/2/100/*/1/M138-S5-G2-077630 to server *127.0.0.1:8000*
+Multicasting message2/2/100/*/1/M138-S5-G2-077630 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/100/?/66/M138-S5-G2-077630
+<127.0.0.1:50050>M139-S5-G2-003509
+Not a command
+Multicasting message2/2/101/*/1/M139-S5-G2-003509 to server *127.0.0.1:8000*
+Multicasting message2/2/101/*/1/M139-S5-G2-003509 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/101/?/67/M139-S5-G2-003509
+<127.0.0.1:8001>2/1/102/*/1/M140-S2-G2-086502
+<127.0.0.1:8001>2/1/103/*/1/M141-S1-G2-066011
+<127.0.0.1:8001>1/1/21/*/1/M142-S3-G1-078492
+<127.0.0.1:8001>2/1/104/*/1/M143-S2-G2-042411
+<127.0.0.1:8001>1/1/22/*/1/M147-S3-G1-052875
+<127.0.0.1:8001>2/1/105/*/1/M149-S1-G2-097315
+<127.0.0.1:50050>M150-S5-G2-088806
+Not a command
+Multicasting message2/2/106/*/1/M150-S5-G2-088806 to server *127.0.0.1:8000*
+Multicasting message2/2/106/*/1/M150-S5-G2-088806 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/106/?/68/M150-S5-G2-088806
+<127.0.0.1:8001>2/1/107/*/1/M151-S1-G2-055553
+<127.0.0.1:8001>1/1/23/*/1/M152-S3-G1-051346
+<127.0.0.1:8001>2/1/108/*/1/M153-S2-G2-019351
+<127.0.0.1:8001>2/1/109/*/1/M155-S2-G2-026840
+<127.0.0.1:50050>M156-S5-G2-039186
+Not a command
+Multicasting message2/2/110/*/1/M156-S5-G2-039186 to server *127.0.0.1:8000*
+Multicasting message2/2/110/*/1/M156-S5-G2-039186 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/110/?/69/M156-S5-G2-039186
+<127.0.0.1:8001>2/1/111/*/1/M158-S1-G2-067019
+<127.0.0.1:8001>2/1/112/*/1/M159-S2-G2-051806
+<127.0.0.1:8001>2/1/113/*/1/M160-S1-G2-077844
+<127.0.0.1:8001>2/1/114/*/1/M161-S2-G2-015499
+<127.0.0.1:50050>M163-S5-G2-058689
+Not a command
+Multicasting message2/2/115/*/1/M163-S5-G2-058689 to server *127.0.0.1:8000*
+Multicasting message2/2/115/*/1/M163-S5-G2-058689 to server *127.0.0.1:8001*
+Delivering message to local clients
+<127.0.0.1:8001>2/1/115/?/70/M163-S5-G2-058689
